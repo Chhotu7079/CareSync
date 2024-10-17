@@ -39,11 +39,17 @@ com.user.servlet – This package holds servlets for user-related functionalitie
 **Admin**
 
 doctor.jsp – Admin page for managing doctor details and viewing their information.
+
 edit_doctor.jsp – Page for editing doctor information, such as specialties and availability.
+
 index.jsp – Admin home page or dashboard that provides a summary view of hospital management activities.
+
 navbar.jsp – Navigation bar component that provides easy navigation across different sections of the site, reused across multiple pages.
-Doctor Interface
+
+user_details.jsp - This page is designed to display comprehensive information about a particular user. It is primarily intended for admin users or doctors to view detailed user (patient) information, such as personal details, contact information, and medical history.
+
 patient.jsp – Page to view and manage patient details.
+
 view_doctor.jsp – Page that displays a list of doctors for admin review.
 
 **Common Components**
