@@ -9,9 +9,13 @@ Ready to redefine healthcare management? Let’s make every aspect of care simpl
 
 ## Technology Used
 Frontend – HTML, CSS, JS, Bootstrap , JSP , FontAwsome
+
 Backend – Servlet , JDBC
+
 Server – Apache Tomcat
+
 Database – MySQL
+
 Tools – Eclipse , MySQL workbench
 
 ## Structure
