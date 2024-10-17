@@ -33,6 +33,7 @@ com.user.servlet – This package holds servlets for user-related functionalitie
 
 ## Frontend Code
 **Admin**
+
 doctor.jsp – Admin page for managing doctor details and viewing their information.
 edit_doctor.jsp – Page for editing doctor information, such as specialties and availability.
 index.jsp – Admin home page or dashboard that provides a summary view of hospital management activities.
@@ -53,6 +54,7 @@ index.jsp – Doctor's dashboard or home page that provides an overview of appoi
 patient.jsp – Page where doctors can view patient details, medical history, and treatment notes.
 
 **Web Application Pages (User and General Interface)**
+admin_login.jsp – Login page for admin users to access the management dashboard.
 change_password.jsp – Common page for users to change their password securely.
 doctor_login.jsp – Login page specifically for doctors to access their portal.
 index.jsp – Main landing page or homepage for the hospital management system.
